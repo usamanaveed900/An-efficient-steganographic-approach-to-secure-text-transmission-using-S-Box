@@ -82,7 +82,7 @@ This is a proposed encryption and decryption process:
 
   "`Ciphertxt 0110 1111`"
 
-##### Decryption is reverse of encryption.
+- ##### Decryption is reverse of encryption.
 
 ### Evaluation Measure
 - PSNR `(Peak signal to noise ratio )`
