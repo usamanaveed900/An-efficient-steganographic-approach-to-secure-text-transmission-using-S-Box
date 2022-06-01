@@ -1,0 +1,18 @@
+C:\Users\usama\Desktop\Pending\1\Project\Project\bin\Debug\Project.exe.config
+C:\Users\usama\Desktop\Pending\1\Project\Project\bin\Debug\Project.exe
+C:\Users\usama\Desktop\Pending\1\Project\Project\bin\Debug\Project.pdb
+C:\Users\usama\Desktop\Pending\1\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\usama\Desktop\Pending\1\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\usama\Desktop\Pending\1\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\usama\Desktop\Pending\1\Project\Project\obj\Debug\Project.exe
+C:\Users\usama\Desktop\Pending\1\Project\Project\obj\Debug\Project.pdb
+C:\Users\usama\Desktop\Pending\1\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+E:\Bussiness\CLIENT_PROJECT\With doc\(LSB)Project\Encryption(1)\Project\Project\bin\Debug\Project.exe.config
+E:\Bussiness\CLIENT_PROJECT\With doc\(LSB)Project\Encryption(1)\Project\Project\obj\Debug\Project.exe
+E:\Bussiness\CLIENT_PROJECT\With doc\(LSB)Project\Encryption(1)\Project\Project\obj\Debug\Project.pdb
+E:\Bussiness\CLIENT_PROJECT\With doc\(LSB)Project\Encryption(1)\Project\Project\bin\Debug\Project.exe
+E:\Bussiness\CLIENT_PROJECT\With doc\(LSB)Project\Encryption(1)\Project\Project\bin\Debug\Project.pdb
+E:\Bussiness\CLIENT_PROJECT\With doc\(LSB)Project\Encryption(1)\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+E:\Bussiness\CLIENT_PROJECT\With doc\(LSB)Project\Encryption(1)\Project\Project\obj\Debug\Project.Form1.resources
+E:\Bussiness\CLIENT_PROJECT\With doc\(LSB)Project\Encryption(1)\Project\Project\obj\Debug\Project.Properties.Resources.resources
+E:\Bussiness\CLIENT_PROJECT\With doc\(LSB)Project\Encryption(1)\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
