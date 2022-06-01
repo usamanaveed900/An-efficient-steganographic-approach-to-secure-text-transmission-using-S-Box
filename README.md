@@ -89,6 +89,9 @@ This is a proposed encryption and decryption process:
 - Encryption time
 - Decryption Time
 
+### Plain Text Attack
+This [Attack](https://github.com/usamanaveed900/Known-Plaintext-Attack) occur when the attacker can access both the plaintext and the cipher text. This attack is consider very basic attack on cryptography algorithm, if a simple approach is given/ used for encryption and decryption
+
 ### Video Explain
 
 ### Authors
